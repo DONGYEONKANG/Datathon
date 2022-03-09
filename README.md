@@ -6,3 +6,13 @@
 __Python__ : 3.7
 
 ### [Notion link](https://plucky-sugar-0a5.notion.site/Datathon-9-936289990e38465b9baa064cae6b6fba)
+
+___
+
+## file 
+- data
+  - netflix_title.csv : 원본 데이터
+  - fixed_netflix_df.csv : 클로링으로 결측치 채운 데이터 
+
+- Main.ipynb: Base code
+  
