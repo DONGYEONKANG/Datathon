@@ -9,10 +9,11 @@ __Python__ : 3.7
 
 ___
 
-## file 
+# File 
 - data
   - netflix_title.csv : 원본 데이터
   - fixed_netflix_df.csv : 클로링으로 결측치 채운 데이터 
+  - NetflixOriginals.csv : 넷플릭스 오리지날 데이터 
 
 - Main.ipynb: Base code
   
