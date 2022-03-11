@@ -1,6 +1,6 @@
 # 👩‍💻 Netflix로 알아보는 문화트렌드(영화보조)
 
-<img src = './image/netflix.png' width ="600" height = "400">
+<img src = './image/netflix.png' width ="800" height = "400">
 
 # Files 
 - data
