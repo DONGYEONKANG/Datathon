@@ -1,4 +1,4 @@
-# Datathon 9조
+# 👩‍💻 Netflix로 알아보는 문화트렌드(영화보조)
 
 # Files 
 - data
@@ -8,10 +8,16 @@
   - worlcities.csv: 전 세계 국가 위도 경도 데이터
   - netflix_stock.csv: netflix 주식 데이터
 
+# Presentation
+- __영화보조.pdf__
+- __영화보조.ppt__
+
 # .ipynb
-- Main_v1.2.ipynb: Final code
-- Missing_data_crawler.ipynb: 결측값을 채우기 위한 크롤링 코드
-- Rating_data_crawler.ipynb: Rating값을 가지고 오기 위한 크롤링 코드
+- __Main_v1.2.ipynb:__ Final code
+- __Missing_data_crawler.ipynb:__ 결측값을 채우기 위한 크롤링 코드
+- __Rating_data_crawler.ipynb:__ Rating값을 가지고 오기 위한 크롤링 코드
+
+
 
 # Version
 __Python__ : 3.7
