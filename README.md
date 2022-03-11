@@ -1,5 +1,7 @@
 # 👩‍💻 Netflix로 알아보는 문화트렌드(영화보조)
 
+<img src = './data/netflix.png' width ="300" height = "220">
+
 # Files 
 - data
   - netflix_title.csv : 원본 데이터
