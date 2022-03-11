@@ -15,7 +15,8 @@
 - __영화보조.ppt__
 
 # .ipynb
-- __Main_v1.2.ipynb:__ Final code
+- __Main_v1.2.ipynb:__ Final code 
+- 안보이신다면 https://nbviewer.org/github/DONGYEONKANG/Datathon/blob/main/Main_v1.2.ipynb
 - __Missing_data_crawler.ipynb:__ 결측값을 채우기 위한 크롤링 코드
 - __Rating_data_crawler.ipynb:__ Rating값을 가지고 오기 위한 크롤링 코드
 
